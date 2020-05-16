@@ -1,0 +1,4 @@
+document.addEventListener('DOMcontentloaded', () ==> {
+
+
+})
